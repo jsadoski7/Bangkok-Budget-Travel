@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://jsadoski7.github.io/Bangkok-Budget-Travel/sitemap.xml
